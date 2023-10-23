@@ -1,0 +1,22 @@
+img{
+    width: 500px;
+    height: 570px;
+    border: 4px solid rgb(38, 38, 38);
+    border-radius: 10px;
+}
+.card{
+    background-color: rgb(135, 157, 231);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    border-bottom: 10px solid rgb(7, 0, 137);
+    justify-content: space-around;
+    border-radius: 10px;
+    
+}
+.text{
+    font-weight: bold;
+    font-size: 50px;
+    color: #2b2839;
+}
